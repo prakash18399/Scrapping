@@ -1,0 +1,1211 @@
+<html dir="ltr" lang="de">
+ <head>
+  <title>
+   German exhibitors at COSMOPROF 2020
+  </title>
+  <meta content="Overview about German companies exhibiting at COSMOPROF 2020" name="description"/>
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1" name="viewport"/>
+  <meta charset="utf-8"/>
+  <link href="/assets/css/styles.css?m=1581084304" rel="stylesheet" type="text/css"/>
+  <script async="" src="//www.google-analytics.com/analytics.js">
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		ga('create', 'UA-73565334-1', 'auto');
+		ga('send', 'pageview');
+  </script>
+ </head>
+ <body>
+  <section class="head">
+   <img alt="Made in Germany" src="/assets/images/logo_MIG.png"/>
+   <div>
+   </div>
+   <img alt="Cosmoprof Worldwide Bologna" src="/assets/images/logo-cosmoprof.png"/>
+   <img alt="German Village" src="/assets/images/German_Village_logo.jpg"/>
+  </section>
+  <nav class="navbar" id="nav">
+   <div class="burger" onclick="document.getElementById('nav').classList.toggle('show');">
+    <span>
+    </span>
+    <span>
+    </span>
+    <span>
+    </span>
+   </div>
+   <ul>
+    <li>
+     <a href="/">
+      Home
+     </a>
+    </li>
+    <li class="active">
+     <a href="/en/exhibitors.php">
+      Exhibitors
+     </a>
+    </li>
+    <li>
+     <a href="/en/german-village.php">
+      German Village
+     </a>
+    </li>
+    <li>
+     <a href="/en/floor_plan_hall_16.php">
+      Floor Plan
+     </a>
+    </li>
+   </ul>
+  </nav>
+  <section class="exhibitorsHero">
+   <div class="col-left">
+    <div>
+     <h1 class="big">
+      Exhibitors
+     </h1>
+     <h4>
+      Here you can find the exhibitors within the German
+      <br/>
+      Village at COSMOPROF Worldwide Bologna 2020.
+     </h4>
+    </div>
+   </div>
+   <div class="col-right">
+    <div class="bgWhite">
+     <h2>
+      More about the German Village
+     </h2>
+     <a class="btn btnBlack" href="german-village.html">
+      German Village
+     </a>
+    </div>
+   </div>
+  </section>
+  <section class="exhibitorsCategories bgPurple">
+   <div class="container">
+    <div class="col-left">
+     <span class="h2 bgWhite">
+      Categories
+     </span>
+    </div>
+    <div class="col-right">
+     <ul>
+      <li>
+       <a href="/en/exhibitors.php?catID=2">
+        Colours
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=3">
+        Cosmetic technology
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=4">
+        Cosmetics
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=5">
+        Cutlery manufacturer
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=6">
+        Distribution / export
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=7">
+        Exporter
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=8">
+        Fragrance
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=9">
+        Haircosmetic
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=10">
+        Hairdresser items
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=11">
+        Make up products
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=12">
+        Manicure
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=13">
+        Miscellaneous
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=14">
+        Pedicure
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=15">
+        Perfumery products
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=16">
+        Private label
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=17">
+        Private label manufacturer
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=18">
+        Skin care
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=19">
+        Treatment
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=20">
+        Wellness for hands &amp; nails
+       </a>
+      </li>
+      <li>
+       <a href="/en/exhibitors.php?catID=21">
+        Wholesale
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </section>
+  <section class="exhibitorsList" id="exhibitors">
+   <div class="container">
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/2k-marketing-production-gmbh-97">
+       <img height="250" src="/_thumbnails_/609_2_2K_Logo.jpg?m=1576513702" width="250"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/2k-marketing-production-gmbh-97">
+        2K Marketing &amp; Production GmbH
+       </a>
+      </h3>
+      2K is based in the center of Germany and offers a wide range of colour cosmetics, toiletries and accessories. Single items, seasonal gifts and pick up items. Our own brands as well as private label. At Cosmoprof 2019 we will launch our new Mr. Goodsmello brand.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B12
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/acurata-gmbh-co.-kg-24">
+       <img height="173" src="/images/logos/Logo_acurata_4c_neu.png?m=1580983427" width="275"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/acurata-gmbh-co.-kg-24">
+        acurata GmbH &amp; Co. KG
+       </a>
+      </h3>
+      Manufacturer of rotating instruments for the foot- and nail care and for dentists and dental laboratories. Nail bits, diamonds and carbide cutters.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B8
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/gustav-baehr-gmbh-124">
+       <img height="90" src="/_thumbnails_/653_2_BAEHR_Logo_Skala.jpg?m=1579598316" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/gustav-baehr-gmbh-124">
+        Gustav Baehr GmbH
+       </a>
+      </h3>
+      The family-owned company is one of the leading companies in the foot care, cosmetics and nail market in Germany. The unbeatably varied product range coupled with quality, service and expertise are the recipe for the success of the Gustav Baehr GmbH.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A8
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/beauty-service-international-gmbh-123">
+       <img height="121" src="/_thumbnails_/670_2_BSI-logo-RGB.jpg?m=1580983445" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/beauty-service-international-gmbh-123">
+        Beauty Service International GmbH
+       </a>
+      </h3>
+      Beauty Service International GmbH is an innovative German wholesale company dealing with trendy, life style beauty products. Our services reach from price entry colour cosmetics, nail polishes made in Italy to complete ready made POS-display solutions of fast moving beauty products.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A15
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/myvitalskin-gmbh-co.-kg-129">
+       <img height="153" src="/_thumbnails_/645_2_Logo_Biotulin_negativ_300dpi.jpg?m=1580983444" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/myvitalskin-gmbh-co.-kg-129">
+        MyVitalSkin GmbH &amp; Co. KG
+       </a>
+      </h3>
+      Our philosophy is to develop cosmetic products which inspire people. We are fulfilled with the pursuit of uniqueness associated with innovation and pioneering. The result of our researchs and innovative power is our product family Biotulin®.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A24
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/cg-bruecke-gmbh-138">
+       <img height="150" src="/_thumbnails_/712_2_logo2.jpg?m=1580983447" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/cg-bruecke-gmbh-138">
+        CG Brücke GmbH
+       </a>
+      </h3>
+      CG Brücke GmbH is an international cosmetics company in Bremen, Germany. The company is engaged in skin care product development, trade and distribution.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B21
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/crevil-cosmetics-pharmaceuticals-germany-gmbh-101">
+       <img height="140" src="/_thumbnails_/510_2_Crevil_Germany.gif?m=1580983439" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/crevil-cosmetics-pharmaceuticals-germany-gmbh-101">
+        Crevil Cosmetics &amp; Pharmaceuticals Germany GmbH
+       </a>
+      </h3>
+      Crevil Cosmetics &amp; Pharmaceuticals develops and produces a wide range of innovative beauty and pharma products, which are all produced in response to customer demand and which meet German industry standards.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B14
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/croll-denecke-gmbh-136">
+       <img height="44" src="/_thumbnails_/630_2_logo_crolldenecke___einzeilig.jpg?m=1580983443" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/croll-denecke-gmbh-136">
+        Croll &amp; Denecke GmbH
+       </a>
+      </h3>
+      Manufacturer of natural sponges, loofah products and natural wellness accessories. Natural luxury is a tradition at Croll &amp; Denecke – family business since 1897.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B16
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/dr.-belter-cosmetic-28">
+       <img height="130" src="/_thumbnails_/457_2_Dr.Belter_Logo.jpg?m=1580983438" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/dr.-belter-cosmetic-28">
+        DR. BELTER COSMETIC
+       </a>
+      </h3>
+      A family run business with more than 40 years of expertise in research,
+development, production and application.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 29 - D38
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/dr.-grandel-gmbh-31">
+       <img height="203" src="/_thumbnails_/708_2_TBC_LogoClaim_sw_tuning_neg.jpg?m=1580983447" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/dr.-grandel-gmbh-31">
+        Dr. Grandel GmbH
+       </a>
+      </h3>
+      DR. GRANDEL – The Beautyness Company with it’s brands DR.GRANDEL and PHYRIS is one of the leading manufacturers of professional skin care products based in Germany.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A4-B3
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/etre-belle-cosmetics-vertrieb-gmbh-32">
+       <img height="66" src="/images/logos/LOGO_etre-belle-cosmetics_8003_4c.png?m=1580983429" width="283"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/etre-belle-cosmetics-vertrieb-gmbh-32">
+        etre belle Cosmetics-Vertrieb GmbH
+       </a>
+      </h3>
+      Offers exclusive and innovative make-up, skincare and body products.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C13
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/hadewe-gmbh-134">
+       <img height="79" src="/_thumbnails_/663_2_hadewe_logo_2018.jpg?m=1580983445" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/hadewe-gmbh-134">
+        Hadewe GmbH
+       </a>
+      </h3>
+      We are a long standing family company who was founded in 1967 in Hanover, Germany. Our Service encompasses the whole spectrum of machines required for the foot care sector.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 29 - D40
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/herbacin-cosmetic-gmbh-37">
+       <img height="125" src="/_thumbnails_/718_2_01R_Herbacin_SchriftzugSatz.jpg?m=1580983449" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/herbacin-cosmetic-gmbh-37">
+        Herbacin cosmetic GmbH
+       </a>
+      </h3>
+      Founded in 1905, Herbacin cosmetic manufactures over 140 herbal-based Body and Skin care products. All products are free from mineral oil and animal ingredients.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C3
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/ic-individual-cosmetics-gmbh-106">
+       <img height="126" src="/_thumbnails_/496_2_Logo_starker.jpg?m=1580983439" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/ic-individual-cosmetics-gmbh-106">
+        IC INDIVIDUAL COSMETICS GmbH
+       </a>
+      </h3>
+      IC Individual Cosmetics GmbH is headquartered in Spangenberg / Germany. Our business is the production and distribution of our own brand INDIVIDUAL COSMETICS and the development &amp; production of private label products (OEM).
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B18
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/inspira-cosmetics-gmbh-107">
+       <img height="57" src="/_thumbnails_/681_2_logo_ICSubline_rot.jpg?m=1580983447" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/inspira-cosmetics-gmbh-107">
+        inspira cosmetics gmbh
+       </a>
+      </h3>
+      German Beauty Engineering- fort he most beautiful you
+
+inspira: cosmetics produces and markets high-quality, contemporary cosmetic products for individual skin care worldwide.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A13
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/internail-deutschland-e.k.-125">
+       <img height="88" src="/_thumbnails_/698_2_internail_logo.jpg?m=1580983447" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/internail-deutschland-e.k.-125">
+        InterNail Deutschland e.K.
+       </a>
+      </h3>
+      Internail is a manufacturer of uv and led gels offering more than 900 modeling, colour and glitter gels. They also manufacture individual gels exactly to your requirements.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A16-B13
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/ionto-health-beauty-135">
+       <img height="182" src="/_thumbnails_/717_2_Sueda_Wort-Bild-Marke_R_Rot_CMYK.jpg?m=1580983448" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/ionto-health-beauty-135">
+        IONTO Health &amp; Beauty
+       </a>
+      </h3>
+      SÜDA, the pioneer in footcare and podiatry, offers the right device for every operational scenario, chiropody chairs for all requirements and SÜDA CARE products for your treatment success.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 29 - E41
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/joydivision-international-ag-84">
+       <img height="196" src="/_thumbnails_/626_2_JOYDIVISION_German_Village_Logo_2020.jpg?m=1580983442" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/joydivision-international-ag-84">
+        JOYDIVISION international AG
+       </a>
+      </h3>
+      JOYDIVISION's passion lies in the production of sensual lifestyle-products that meet the highest quality standards. 25 years – manufactured with love in Germany.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C19
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/buerstenfabrik-keller-gmbh-29">
+       <img height="138" src="/_thumbnails_/107_2_keller_logo_hoch_rot.png?m=1580983428" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/buerstenfabrik-keller-gmbh-29">
+        Bürstenfabrik Keller GmbH
+       </a>
+      </h3>
+      Bürstenfabrik Keller GmbH can look back on a corporate history going back more than 140 years. Today the company is still in family hands in the 5th generation with its Managing Director Andreas Keller.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B5
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/kulzer-gmbh-36">
+       <img height="64" src="/images/logos/Kulzer.jpg?m=1580983435" width="183"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/kulzer-gmbh-36">
+        Kulzer GmbH
+       </a>
+      </h3>
+      Kulzer is an innovative company, which is active as manufacturer of UV gel and powder/liquid systems for more than 30 years. We are focused on the development and private label manufacturing of UV products and powder/liquid systems for nail cosmetics and podiatry
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C17
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/hemera-international-gmbh-105">
+       <img height="96" src="/_thumbnails_/553_2_Logo_LaLinda_R.gif?m=1580983440" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/hemera-international-gmbh-105">
+        HEMERA International GmbH
+       </a>
+      </h3>
+      LaLinda Natural Skin Care offers nature's best, with pristine mountain water from the Alps. We treat, protect and soothe the sensitive skin of moms-to-be, babies, and children.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B16
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/lbc/paris-biocosmetiques-gmbh-70">
+       <img height="70" src="/_thumbnails_/286_2_R_LBC_LOGO_2016.gif?m=1580983432" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/lbc/paris-biocosmetiques-gmbh-70">
+        LBC/PARIS BioCosmétiques GmbH
+       </a>
+      </h3>
+      LBC/PARIS Biocosmétiques stands for proven innovative skin care concepts with premium natural ingredients. French pioneering spirit made in Germany – for beauty you can feel par excellence.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C5
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/lutz-packaging-gmbh-126">
+       <img height="250" src="/_thumbnails_/672_2_L-PA-Logo_cmyk.jpg?m=1580983445" width="226"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/lutz-packaging-gmbh-126">
+        Lutz Packaging GmbH
+       </a>
+      </h3>
+      Lutz Packaging is specialist for primary packaging made of tubular glass. Our product range comprises ampoules, bottles, aroma tubes, ampoules’ breaker and sprayer for pharmaceutical and cosmetic substances.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A5
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/luxess-gmbh-127">
+       <img height="71" src="/_thumbnails_/707_2_image001_1.jpg?m=1580983447" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/luxess-gmbh-127">
+        LUXESS GmbH
+       </a>
+      </h3>
+      LUXESS is a German brand development, marketing &amp; sales company, focusing on international and regional fragrance brands. Our portfolio includes ESPRIT,  TOM TAILOR and HEAD.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B4
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/maxcos-gmbh-128">
+       <img height="250" src="/_thumbnails_/690_2_Maxcos_Logo.jpg?m=1580983447" width="232"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/maxcos-gmbh-128">
+        MAXCOS GmbH
+       </a>
+      </h3>
+      Maxcos GmbH  is based in Frankfurt/Germany. 
+All ingredients in our products are consists of natural basis, free from perfume, mineral oil  and animal constituents. Our products fulfill the highest quality standards “Made in Germany”.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C11
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/maxim-markenprodukte-gmbh-co.-kg-109">
+       <img height="75" src="/images/logos/Logo_MAXIM_Markenprodukte.gif?m=1580983440" width="232"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/maxim-markenprodukte-gmbh-co.-kg-109">
+        MAXIM Markenprodukte GmbH &amp; Co. KG
+       </a>
+      </h3>
+      Maxim Markenprodukte GmbH &amp; Co. KG is a leading company in Europe in developing and manufacturing high quality concepts in the cosmetic industry.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B23
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/neovita-cosmetics-gmbh-110">
+       <img height="81" src="/_thumbnails_/541_2_NV-Logo2016.jpg?m=1580983440" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/neovita-cosmetics-gmbh-110">
+        NEOVITA COSMETICS GmbH
+       </a>
+      </h3>
+      Salutogenic Skin &amp; Hair Care products with highly effective active ingredient systems, free of any preservatives and fillers is our principle. Successfully for more than 50 years!
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 29 - D42
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/newcos-gmbh-76">
+       <img height="36" src="/_thumbnails_/302_2_Vivian-Gray.gif?m=1580983432" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/newcos-gmbh-76">
+        NEWCOS GmbH
+       </a>
+      </h3>
+      NEWCOS offers a very wide range of body care products that combines high value packaging with innovative design. Delicate fragrances, formulations designed for sensitive skins are also the reasons for our success. Each product is created with an enthusiasm for perfection and quality at affordable pricing. Vivian Gray is now distributed in more than 40 countries worldwide.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B10
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/ocean-pharma-gmbh-111">
+       <img height="182" src="/_thumbnails_/612_2_OPH-LogoCesra_4c.jpg?m=1580983441" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/ocean-pharma-gmbh-111">
+        ocean pharma GmbH
+       </a>
+      </h3>
+      Spirularin® products are basing on the patented ingredient Spiralin® with it’s proven regenerative, antifungal, antibacterial and antiviral properties. Clinical trials show superior effectiveness.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A6
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/paedi-protect-ag-130">
+       <img height="92" src="/_thumbnails_/649_2_PaediProtect_Logo_PANTONE_2935C_blau_2018.jpg?m=1580983445" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/paedi-protect-ag-130">
+        Paedi Protect AG
+       </a>
+      </h3>
+      PAEDIPROTECT - The brand with the penguin. PAEDIPROTECT is one of the best-known German brands in the baby and child care segment as well as in sun protection.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B19
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/polystone-chemical-gmbh-47">
+       <img height="61" src="/_thumbnails_/109_2_polystone-logo.png?m=1580983428" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/polystone-chemical-gmbh-47">
+        Polystone Chemical GmbH
+       </a>
+      </h3>
+      Polystone chemical GmbH, founded in 1989, is one of the leading UV gel and Permanent Make-up manufacturers.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A22-B17
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/raphael-rosalee-cosmetics-gmbh-48">
+       <img height="148" src="/_thumbnails_/110_2_Logo-Raphael-Rosalee-Cosmetics-GmbH-1.png?m=1580983428" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/raphael-rosalee-cosmetics-gmbh-48">
+        Raphael Rosalee Cosmetics GmbH
+       </a>
+      </h3>
+      Raphael Rosalee Cosmetics is devoted to the development and production of fast moving French made perfumes EDP &amp; EDT since 2001.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B20
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/ring-kamm-und-haarschmuck-gmbh-131">
+       <img height="103" src="/_thumbnails_/622_2_RING_Logo.jpg?m=1580983442" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/ring-kamm-und-haarschmuck-gmbh-131">
+        RING Kamm und Haarschmuck GmbH
+       </a>
+      </h3>
+      RING: in-house manufacturing, leading supplier for sustainable products as  bathroomaccessories, combs,  hairjewelry, mirrors, brushes for private label or highest professional needs. Mainly Made in Germany
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C7
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/salsa-gmbh-112">
+       <img height="250" src="/_thumbnails_/500_2_Logo-dunkelgrau.jpg?m=1580983439" width="250"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/salsa-gmbh-112">
+        Salsa GmbH
+       </a>
+      </h3>
+      Salsa GmbH is a manufacturer and importer of High-value gift items specially
+Designed fort he bath and wellness sector. Our speciality are individually designed giftsets, bath truffles, scented candles and soap roses.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C9
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/sensitive-lashes-113">
+       <img height="142" src="/_thumbnails_/546_2_Logo_Sensitive_Lashes.jpg?m=1580983440" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/sensitive-lashes-113">
+        Sensitive Lashes
+       </a>
+      </h3>
+      ﻿Sensitive Lashes
+Eyelash Products made in Germany
+We are a young dynamic company, which is always striving to offer you the best possible service. We are specialize in the production and sale of eyelash glues and selected accessories, which are also suitable for very sensitive customers.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 29 - E37
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/shazay-diamond-filtered-hair-cosmetics-100">
+       <img height="250" src="/_thumbnails_/522_2_SHAZAY_Logo_CMYK.jpg?m=1580983440" width="287"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/shazay-diamond-filtered-hair-cosmetics-100">
+        SHAZAY– diamond filtered hair cosmetics
+       </a>
+      </h3>
+      SHAZAY is the innovative luxury styling and care line sold solely via  distributors to professional hair artists, beauty institutes and spas. Diamond Filtered Water makes SHAZAY unique.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A10
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/sht-skin-health-technologies-gmbh-114">
+       <img height="250" src="/_thumbnails_/550_2_sht_logo.gif?m=1580983440" width="256"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/sht-skin-health-technologies-gmbh-114">
+        sht Skin Health Technologies GmbH
+       </a>
+      </h3>
+      We develope, manufacture and distribute worldwide technologies for professional beauty specialists:
+- microdermabrasion - very gentle&amp;effective
+- ultrasound 1-15MHz
+- microneedling systems
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 29 - E39
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/simon-keller-ltd.-92">
+       <img height="175" src="/_thumbnails_/467_2_Simon_Keller_Slogan_RGB.jpg?m=1580983438" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/simon-keller-ltd.-92">
+        Simon Keller Ltd.
+       </a>
+      </h3>
+      Simon Keller Ltd. was foundet in 1971 in Burgdorf, Switzerland. Our field of activity is the production and trade of specialized equipment and accessoires for footcare and spa.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A7
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/skinovators-gmbh-132">
+       <img height="76" src="/_thumbnails_/640_2_Logo_Skinovators.jpg?m=1580983444" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/skinovators-gmbh-132">
+        Skinovators GmbH
+       </a>
+      </h3>
+      SKINOVATORS is a member of the KLAPP GROUP and offers as one of the leading cosmetics businesses the best in the world of beauty. For us “Made in Germany” is a promise of quality.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A1
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/titania-fabrik-gmbh-53">
+       <img height="107" src="/_thumbnails_/366_2_TIT_Lg_MiG.jpg?m=1580983435" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/titania-fabrik-gmbh-53">
+        TITANIA® Fabrik GmbH
+       </a>
+      </h3>
+      TITANIA® is one of the leading German manufacturers for manicure, pedicure and cosmetic articles with a range of more than 1.300 products and an export to more than 120 countries.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - C15
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/united-brands-marketing-gmbh-54">
+       <img height="39" src="/_thumbnails_/484_2_UBM-LOGO-2018.jpg?m=1580983438" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/united-brands-marketing-gmbh-54">
+        UNITED BRANDS MARKETING GmbH
+       </a>
+      </h3>
+      United Brands is a family-owned Private Label cosmetic manufacturer. We are one of the leading companies in creating innovative liquid liners for eyes, lips, eyebrows and body.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A14-B11
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/petra-gmbh-vitayes-cosmetics-89">
+       <img height="79" src="/_thumbnails_/679_2_vitayes_logo.jpg?m=1580983446" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/petra-gmbh-vitayes-cosmetics-89">
+        Petra GmbH – VITAYES COSMETICS
+       </a>
+      </h3>
+      Vitayes is a young cosmetics-startup from Germany. Vitayes develops groundbreaking "effect-cosmetics" for a flawless skin which contains natural and highly effective ingredients.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B2-C1
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/stefan-wicklein-kunststoffveredelung-gmbh-137">
+       <img height="188" src="/_thumbnails_/759_2_Wicklein_Bild.jpg?m=1580987697" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/stefan-wicklein-kunststoffveredelung-gmbh-137">
+        Stefan Wicklein Kunststoffveredelung GmbH
+       </a>
+      </h3>
+      Wicklein refines primary packaging materials by using high quality varnishes, printing colours and foils with state-of-the-art equipment and therewith turns every packaging into an eyecatcher.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A5
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/your-productline-133">
+       <img height="250" src="/_thumbnails_/680_2_Your_productline.jpg?m=1580983446" width="250"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/your-productline-133">
+        Your Productline
+       </a>
+      </h3>
+      Your Productline offers worldwide private labeling. We specialize in Lashextention products and cosmetics.
+All products are 100 % made and developed in Germany.
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - A12
+      </span>
+     </div>
+    </div>
+    <div class="exhibitor">
+     <div class="col-left">
+      <a href="/en/exhibitor/zahn-pinsel-gmbh-55">
+       <img height="239" src="/_thumbnails_/756_2_ZAHN_neu.jpg?m=1580983449" width="300"/>
+      </a>
+     </div>
+     <div class="col-middle">
+      <h3>
+       <a href="/en/exhibitor/zahn-pinsel-gmbh-55">
+        ZAHN Pinsel GmbH
+       </a>
+      </h3>
+      Private label brush manufactory ZAHN is your perfect partner for:
+cosmetic brushes, nail brushes, shaving brushes, individual brush
+development - high quality made in Germany!
+     </div>
+     <div class="col-right">
+      <span class="bgPurple">
+       Booth Hall 16 - B6
+      </span>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer class="bgBlack">
+   <div class="container">
+    <div class="col-left">
+     <h3>
+      Sitemap
+     </h3>
+     <hr/>
+     <div class="sitemap">
+      <ul class="left">
+       <li>
+        <a href="/">
+         Home
+        </a>
+       </li>
+       <li>
+        <a href="/en/german-village.php#contact">
+         Contacts
+        </a>
+       </li>
+      </ul>
+      <ul class="right">
+       <li>
+        <a href="/en/exhibitors.php">
+         Exhibitors
+        </a>
+       </li>
+       <li>
+        <a href="/en/press-releases.php">
+         Press releases
+        </a>
+       </li>
+       <li>
+        <a href="/en/german-village.php">
+         German Village
+        </a>
+       </li>
+       <li>
+        <a href="/en/about_fair.php">
+         About the fair
+        </a>
+       </li>
+       <li>
+        <a href="/en/imprint.php">
+         Imprint
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="col-right">
+     <h3>
+      Organized by
+     </h3>
+     <hr/>
+     <div class="sitemap">
+      <ul class="left">
+       <li>
+        Landesmesse Stuttgart GmbH
+       </li>
+       <li>
+        Messe Stuttgart International
+       </li>
+       <li>
+        Messepiazza 1
+       </li>
+       <li>
+        70629 Stuttgart
+       </li>
+       <li>
+        Germany
+       </li>
+      </ul>
+      <ul class="right">
+       <li>
+        Phone: +49 711 18560 2567
+       </li>
+       <li>
+        Fax: +49 711 18569 2555
+       </li>
+       <li>
+        <a href="mailto:international@messe-stuttgart.de">
+         international@messe-stuttgart.de
+        </a>
+       </li>
+       <li>
+        <a href="https://www.messe-stuttgart.de/" rel="noopener" target="_blank">
+         www.messe-stuttgart.de
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

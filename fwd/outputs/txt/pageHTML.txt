@@ -1,0 +1,2331 @@
+<html class="js" data-cm-hook="1" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+  <meta content="width=device-width, minimum-scale=1" name="viewport"/>
+  <meta content="public" http-equiv="Cache-control"/>
+  <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K8WH3DZ">
+  </script>
+  <script type="application/ld+json">
+   {
+        "@context": "http:\/\/schema.org",
+        "@type": "WebSite",
+        "@id": "#website",
+        "url": "https://www.fwd.co.uk",
+        "name": "FWD",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.fwd.co.uk/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+  </script>
+  <script type="text/javascript">
+   document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Muli:400,900" rel="stylesheet"/>
+  <title>
+   The Wholesalers - FWD
+  </title>
+  <!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
+  <link href="https://www.fwd.co.uk/wholesale-distribution/whos-who-in-wholesale/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="The Wholesalers - FWD" property="og:title"/>
+  <meta content="https://www.fwd.co.uk/wholesale-distribution/whos-who-in-wholesale/" property="og:url"/>
+  <meta content="FWD" property="og:site_name"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="The Wholesalers - FWD" name="twitter:title"/>
+  <meta content="@fwdwholesale" name="twitter:site"/>
+  <meta content="@fwdwholesale" name="twitter:creator"/>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.fwd.co.uk\/","sameAs":["https:\/\/twitter.com\/fwdwholesale"],"@id":"https:\/\/www.fwd.co.uk\/#organization","name":"Federation of Wholesale Distributors (FWD)","logo":"https:\/\/www.fwd.co.uk\/wp-content\/uploads\/2018\/06\/fwd-logo.png"}
+  </script>
+  <!-- / Yoast SEO plugin. -->
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://www.fwd.co.uk/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=2.3.1" id="pt-cv-public-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.fwd.co.uk/wp-content/plugins/acf-form-builder/scripts/stylesheets/css/frontend.css?ver=2.0.13" id="acf-form-builder-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.fwd.co.uk/wp-content/themes/fwd/stylesheets/css/app.css?ver=1.0.7" id="theme-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.fwd.co.uk/wp-content/themes/fwd/stylesheets/css/wholesale-news.css?ver=1.0.7" id="wholesalenews-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.fwd.co.uk/?p=296" rel="shortlink"/>
+  <script type="text/javascript">
+   SG_POPUPS_QUEUE = [];
+							SG_POPUP_DATA = [];
+							SG_APP_POPUP_URL = 'https://www.fwd.co.uk/wp-content/plugins/popup-builder';
+							SG_POPUP_VERSION='2.676_1;';
+							
+							function sgAddEvent(element, eventName, fn) {
+								if (element.addEventListener)
+									element.addEventListener(eventName, fn, false);
+								else if (element.attachEvent)
+									element.attachEvent('on' + eventName, fn);
+							}
+  </script>
+  <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/g/html5shiv@3.7.3,respond@1.4.2"></script>
+    <![endif]-->
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K8WH3DZ');
+  </script>
+  <!-- End Google Tag Manager -->
+  <style type="text/css">
+   .atlwdg-blanket {background: black;height: 100%;left: 0;opacity: .5;position: fixed;top: 0;width: 100%;z-index: 1000000;}.atlwdg-popup {background: white;border: 1px solid #ccc;position: fixed;top: 0;right: 0;bottom: 0;left: 0;margin: auto;z-index: 10000011;border-radius: 5px;background-clip: padding-box;overflow: hidden;width: 810px;height: 0;max-height: calc(100% - 100px);}#atlwdg-frame {height: 100%;width: 100%;}.atlwdg-hidden {visibility: hidden;}.atlwdg-trigger {position: fixed;background: #205081;padding: 5px;border: 2px solid white;border-top: none;font-weight: bold;color: white !important;display: block;white-space: nowrap;text-decoration: none !important;font-family: Arial, Helvetica, sans-serif;font-size: 12px;-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);border-radius: 0 0 5px 5px;}.atlwdg-trigger.atlwdg-TOP {left: 45%;top: 0;}.atlwdg-trigger.atlwdg-RIGHT {left: 100%;top: 40%;-webkit-transform: rotate(90deg);-webkit-transform-origin: top left;-moz-transform: rotate(90deg);-moz-transform-origin: top left;-ms-transform: rotate(90deg);-ms-transform-origin: top left;transform: rotate(90deg);transform-origin: top left;}.atlwdg-trigger.atlwdg-SUBTLE {right: 0;bottom: 0;border: 1px solid #ccc;border-bottom: none;border-right: none;background-color: #f5f5f5;color: #444 !important;font-size: 11px;padding: 6px;-webkit-box-shadow: -1px -1px 2px rgba(0, 0, 0, 0.5);box-shadow: -1px -1px 2px rgba(0, 0, 0, 0.5);border-radius: 2px 0 0 0;}.atlwdg-loading {position: fixed;top: 0;right: 0;bottom: 0;left: 0;margin: auto;height: 40px;width: 40px;z-index: 1000001;border-radius: 5px;background-color: #fff;background-image: url('data:image/gif;base64,R0lGODlhEAAQAMQAAP///+7u7t3d3bu7u6qqqpmZmYiIiHd3d2ZmZlVVVURERDMzMyIiIhEREQARAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQFBwAQACwAAAAAEAAQAAAFdyAkQgGJJOWoQgIjBM8jkKsoPEzgyMGsCjPDw7ADpkQBxRDmSCRetpRA6Rj4kFBkgLC4IlUGhbNQIwXOYYWCXDufzYPDMaoKGBoKb886OjAKdgZAAgQkfCwzAgsDBAUCgl8jAQkHEAVkAoA1AgczlyIDczUDA2UhACH5BAUHABAALAAAAAAPABAAAAVjICSO0IGIATkqIiMKDaGKC8Q49jPMYsE0hQdrlABCGgvT45FKiRKQhWA0mPKGPAgBcTjsspBCAoH4gl+FmXNEUEBVAYHToJAVZK/XWoQQDAgBZioHaX8igigFKYYQVlkCjiMhACH5BAUHABAALAAAAAAQAA8AAAVgICSOUGGQqIiIChMESyo6CdQGdRqUENESI8FAdFgAFwqDISYwPB4CVSMnEhSej+FogNhtHyfRQFmIol5owmEta/fcKITB6y4choMBmk7yGgSAEAJ8JAVDgQFmKUCCZnwhACH5BAUHABAALAAAAAAQABAAAAViICSOYkGe4hFAiSImAwotB+si6Co2QxvjAYHIgBAqDoWCK2Bq6A40iA4yYMggNZKwGFgVCAQZotFwwJIF4QnxaC9IsZNgLtAJDKbraJCGzPVSIgEDXVNXA0JdgH6ChoCKKCEAIfkEBQcAEAAsAAAAABAADgAABUkgJI7QcZComIjPw6bs2kINLB5uW9Bo0gyQx8LkKgVHiccKVdyRlqjFSAApOKOtR810StVeU9RAmLqOxi0qRG3LptikAVQEh4UAACH5BAUHABAALAAAAAAQABAAAAVxICSO0DCQKBQQonGIh5AGB2sYkMHIqYAIN0EDRxoQZIaC6bAoMRSiwMAwCIwCggRkwRMJWKSAomBVCc5lUiGRUBjO6FSBwWggwijBooDCdiFfIlBRAlYBZQ0PWRANaSkED1oQYHgjDA8nM3kPfCmejiEAIfkEBQcAEAAsAAAAABAAEAAABWAgJI6QIJCoOIhFwabsSbiFAotGMEMKgZoB3cBUQIgURpFgmEI0EqjACYXwiYJBGAGBgGIDWsVicbiNEgSsGbKCIMCwA4IBCRgXt8bDACkvYQF6U1OADg8mDlaACQtwJCEAIfkEBQcAEAAsAAABABAADwAABV4gJEKCOAwiMa4Q2qIDwq4wiriBmItCCREHUsIwCgh2q8MiyEKODK7ZbHCoqqSjWGKI1d2kRp+RAWGyHg+DQUEmKliGx4HBKECIMwG61AgssAQPKA19EAxRKz4QCVIhACH5BAUHABAALAAAAAAQABAAAAVjICSOUBCQqHhCgiAOKyqcLVvEZOC2geGiK5NpQBAZCilgAYFMogo/J0lgqEpHgoO2+GIMUL6p4vFojhQNg8rxWLgYBQJCASkwEKLC17hYFJtRIwwBfRAJDk4ObwsidEkrWkkhACH5BAUHABAALAAAAQAQAA8AAAVcICSOUGAGAqmKpjis6vmuqSrUxQyPhDEEtpUOgmgYETCCcrB4OBWwQsGHEhQatVFhB/mNAojFVsQgBhgKpSHRTRxEhGwhoRg0CCXYAkKHHPZCZRAKUERZMAYGMCEAIfkEBQcAEAAsAAABABAADwAABV0gJI4kFJToGAilwKLCST6PUcrB8A70844CXenwILRkIoYyBRk4BQlHo3FIOQmvAEGBMpYSop/IgPBCFpCqIuEsIESHgkgoJxwQAjSzwb1DClwwgQhgAVVMIgVyKCEAIfkECQcAEAAsAAAAABAAEAAABWQgJI5kSQ6NYK7Dw6xr8hCw+ELC85hCIAq3Am0U6JUKjkHJNzIsFAqDqShQHRhY6bKqgvgGCZOSFDhAUiWCYQwJSxGHKqGAE/5EqIHBjOgyRQELCBB7EAQHfySDhGYQdDWGQyUhADs=');background-repeat: no-repeat;background-position: center center;}@media print {.atlwdg-trigger { display: none; }}@media screen and (max-width: 820px) {.atlwdg-popup {max-width: 810px;width: 90%;max-height: 90%;}}
+  </style>
+ </head>
+ <body class="page-template-default page page-id-296 page-child parent-pageid-19 wp-custom-logo" data-rsssl="1">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-K8WH3DZ" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!--[if lte IE 9]>0
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://outdatedbrowser.com/en">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+  <header class="site-navigation">
+   <div class="search-container">
+    <div class="container">
+     <div class="row">
+      <div class="col-xs-12">
+       <form action="https://www.fwd.co.uk/" class="searchform" id="searchform" method="get" role="search">
+        <div>
+         <label class="screen-reader-text" for="s">
+          Search for:
+         </label>
+         <input id="s" name="s" type="text" value=""/>
+         <input id="searchsubmit" type="submit" value="Search"/>
+        </div>
+       </form>
+       <button class="close-search-container" id="close-search-container">
+        Close
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <nav class="super">
+    <div class="container">
+     <div class="row">
+      <div class="col-xs-12 col-md-6">
+      </div>
+      <div class="col-xs-12 col-md-6">
+       <ul class="quick-links">
+        <li>
+         <a href="https://www.fwd.co.uk/login/">
+          Login
+         </a>
+        </li>
+        <li>
+         <a class="search-toggle" href="/search">
+          Search
+         </a>
+        </li>
+        <li>
+         <a href="https://twitter.com/fwdwholesale" rel="noopener" target="_blank">
+          <img alt="Follow on Twitter" src=" https://www.fwd.co.uk/wp-content/themes/fwd/images/icons/social/gray_twitter.svg"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <nav class="main navbar navbar-default">
+    <div class="container">
+     <div class="navbar-header">
+      <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
+       <span class="sr-only">
+        Toggle navigation
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+      </button>
+      <a class="navbar-brand" href="https://www.fwd.co.uk" style="background-image: url(https://www.fwd.co.uk/wp-content/themes/fwd/images/fwd-logo.png);">
+      </a>
+     </div>
+     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav master-navigation" id="menu-full-menu">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7497" id="menu-item-7497" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a href="https://www.fwd.co.uk/" title="Homepage">
+         Homepage
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7498 dropdown" id="menu-item-7498" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a aria-haspopup="true" class="dropdown-toggle" href="https://www.fwd.co.uk/about-fwd/" title="About FWD">
+         About FWD
+         <span aria-expanded="false" aria-haspopup="true" class="dropdown-caret" data-toggle="dropdown">
+         </span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10044" id="menu-item-10044" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/about-fwd/members/" title="Members">
+           Members
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9826" id="menu-item-9826" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/about-fwd/supplier-partners/" title="Supplier Partners">
+           Supplier Partners
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9822" id="menu-item-9822" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/about-fwd/supplier-members/" title="Supplier Members">
+           Supplier Members
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9824" id="menu-item-9824" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/about-fwd/council-of-members/" title="Council of Members">
+           Council of Members
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9827" id="menu-item-9827" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/about-fwd/supplier-council/" title="Supplier Council">
+           Supplier Council
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9825" id="menu-item-9825" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/about-fwd/join-fwd/" title="Join FWD">
+           Join FWD
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-9821 dropdown" id="menu-item-9821" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a aria-haspopup="true" class="dropdown-toggle" href="https://www.fwd.co.uk/wholesale-distribution/" title="Wholesale Distribution">
+         Wholesale Distribution
+         <span aria-expanded="false" aria-haspopup="true" class="dropdown-caret" data-toggle="dropdown">
+         </span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9830" id="menu-item-9830" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/wholesale-distribution/the-hidden-world-of-wholesale/" title="The Hidden World of Wholesale">
+           The Hidden World of Wholesale
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9832" id="menu-item-9832" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/wholesale-distribution/understanding-wholesale/" title="Understanding Wholesale">
+           Understanding Wholesale
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-296 current_page_item menu-item-9831 active" id="menu-item-9831" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/wholesale-distribution/whos-who-in-wholesale/" title="The Wholesalers">
+           The Wholesalers
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9833" id="menu-item-9833" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/homepage/wiw/" title="Women in Wholesale">
+           Women in Wholesale
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9829" id="menu-item-9829" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/wholesale-distribution/working-in-wholesale/" title="Working in Wholesale">
+           Working in Wholesale
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9828" id="menu-item-9828" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+          <a href="https://www.fwd.co.uk/wholesale-distribution/wholesale-facts-and-figures/" title="Wholesale Facts and Figures">
+           Wholesale Facts and Figures
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7499" id="menu-item-7499" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a href="https://www.fwd.co.uk/current-issues/" title="Policy and Legislation">
+         Policy and Legislation
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7496" id="menu-item-7496" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a href="https://www.fwd.co.uk/wholesale-news/" title="Wholesale News">
+         Wholesale News
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10047" id="menu-item-10047" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a href="https://www.fwd.co.uk/homepage/wiw/" title="Women in Wholesale">
+         Women in Wholesale
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10045" id="menu-item-10045" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a href="https://www.fwd.co.uk/events/" title="Events">
+         Events
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10046" id="menu-item-10046" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a href="https://www.fwd.co.uk/contact/" title="Contact">
+         Contact
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <section class="full_width_image layout-1 layout-first" id="section-1">
+   <div class="full-width-image-inner">
+    <div class="main-banner overlay overlay-blue" style="background-image: url(https://www.fwd.co.uk/wp-content/uploads/2018/04/DSC_9004-1-1024x683.jpg)">
+     <div class="container">
+      <div class="row">
+       <div class="col-xs-12 col-sm-10 col-md-10 col-lg-8">
+        <div class="board">
+         <div class="vertical-align">
+          <div class="middle">
+           <div class="tag-banner">
+            THE WHOLESALERS
+           </div>
+           <div class="content-banner">
+            Who’s Who in Wholesale - the biggest names in food distribution
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="wysiwyg layout-2" id="section-2">
+   <section class="wysiwyg article">
+    <div class="container">
+     <div class="row">
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+       <div class="wp-content">
+        <h3>
+         The majority of wholesale distributors in the UK are members of FWD. Here’s some background on our full members, and the larger wholesalers within buying groups within FWD. If you would like to work in partnership with our members you will need to approach them individually, or you can go through their buying group head office if they are affiliated.
+        </h3>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </section>
+  <section class="wysiwyg layout-3 layout-last" id="section-3">
+   <section class="wysiwyg">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Bestway Wholesale Ltd incorporating Batleys Cash &amp; Carry
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Abbey Road,
+            <br/>
+            Park Royal London
+            <br/>
+            NW10 7BW
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           020 8453 1234
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           020 8965 7982
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           65
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           4,700
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £1.9bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, fresh, beers, wines, spirits, confectionery, non-food, tobacco, petfood.
+          </p>
+          <p>
+           <strong>
+            <a href="http://www.bestway.co.uk" rel="noopener" target="_blank">
+             www.bestway.co.uk
+            </a>
+            <br/>
+            <a href="http://www.batleys.co.uk" rel="noopener" target="_blank">
+             www.batleys.co.uk
+            </a>
+           </strong>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Bidfood
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            814 Leigh Road Slough,
+            <br/>
+            Berkshire
+            <br/>
+            SL1 4BD
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01494 555 900
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           34
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £2.4bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, fresh meat and poultry, produce, wines, beers and spirits, non-food and catering equipment.
+          </p>
+          <p>
+           <a href="http://www.bidfood.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.bidfood.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            AF Blakemore &amp; Sons
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Unit 4N, Coxwell Avenue,
+            <br/>
+           </strong>
+           <strong>
+            Wolverhampton Science Park,
+            <br/>
+            Wolverhampton,
+            <br/>
+            West Midlands
+            <br/>
+            WV10 9RT
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01902 371515
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01902 371516
+          </p>
+          <p>
+           <strong>
+            NUMBER OF EMPLOYEES
+           </strong>
+           : 7500
+           <br/>
+           <strong>
+            COMPANY TURNOVER
+           </strong>
+           : £1.1bn
+           <br/>
+           <strong>
+            C&amp;C SQUARE FOOTAGE
+           </strong>
+           : 1,100,000
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, grocery, alcohol, confectionery, tobacco, non-food, on trade
+          </p>
+          <p>
+           <a href="http://www.afblakemore.com" rel="noopener" target="_blank">
+            <strong>
+             www.afblakemore.com
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Booker Group
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Equity House,
+            <br/>
+            Irthlingborough Road,
+            <br/>
+            Wellingborough
+            <br/>
+            Northamptonshire,
+            <br/>
+            NN8 1LT
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01933 371000
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01933 371010
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           196
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           13,000
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £5.6bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, fresh, meat, beers, wines, spirits, confectionery, snacks, non-food, tobacco
+          </p>
+          <p>
+           <a href="http://www.booker.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.booker.co.uk
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Brakes UK
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Enterprise House,
+            <br/>
+            Eureka Business Park,
+            <br/>
+            Ashford,
+            <br/>
+            Kent
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            TN25 4AG
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0845 606 9090
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01233 206006
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS
+           </strong>
+           : 30+
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           6,500
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £3.9bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Fresh, frozen, chilled and ambient goods, catering supplies
+          </p>
+          <p>
+           <a href="http://www.brakesgroup.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.brakesgroup.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Caterforce
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying Group:
+            <a href="https://www.caterforce.co.uk/our-members">
+             7 members
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            2nd Floor,
+            <br/>
+            Fence House Fence Avenue,
+            <br/>
+            Macclesfield Cheshire,
+            <br/>
+            SK10 1LT
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            Tel:
+           </strong>
+           01625 440188
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01625 503481
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           28
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           2,500
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £500m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Frozen, chilled and grocery lines, food and non-food.
+          </p>
+          <p>
+           <a href="http://www.caterforce.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.caterforce.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Confex
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying Group:
+            <a href="http://confex.ltd.uk/member_categories.asp">
+             245 members
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Cotswold Business Village London Road,
+            <br/>
+            Moreton-in-Marsh Glos.
+            <br/>
+            GL56 0JQ
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01608 652 333
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01608 653 480
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           245
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES
+           </strong>
+           : 23 (Head office)
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £2.85bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Confectionery, tobacco, snacks, convenience, soft drinks, catering, alcohol, grocery, chilled &amp; frozen, non-food, own label
+          </p>
+          <p>
+           <a href="http://www.confex.ltd.uk" rel="noopener" target="_blank">
+            <strong>
+             www.confex.ltd.uk
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Costco UK
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            UK Home Office,
+            <br/>
+            Hartspring Lane,
+            <br/>
+            Watford,
+            <br/>
+            Hertfordshire
+            <br/>
+            WD25 8JS
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01923 213113
+           <br/>
+           <strong>
+            Member services:
+           </strong>
+           01923 830477
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           28 in UK
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           210,000 worldwide
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, alcohol, non-food
+          </p>
+          <p>
+           <a href="http://www.costco.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.costco.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Country Range Group
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying Group:
+            <a href="http://www.countryrange.co.uk/where-to-buy/">
+             12 members
+            </a>
+            <br/>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            4-5 Jupiter House
+            <br/>
+            Mercury Rise
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            Altham Business Park,
+            <br/>
+            Accrington
+            <br/>
+            Lancashire
+            <br/>
+            BB5 5BY
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0845 209 3777
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           0845 209 3778
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           16
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £472m
+          </p>
+          <p>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, non-food.
+          </p>
+          <p>
+           <a href="http://www.countryrange.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.countryrange.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            DCS Group
+           </strong>
+          </h3>
+          <p>
+           <b>
+            Ocean House, Noral Way
+            <br/>
+            Banbury, Oxon Ox16 2AA
+           </b>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01789 208000
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS
+           </strong>
+           : 4
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           355
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           In excess of £62.8m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Grocery, frozen, chilled, dairy, fresh produce, fresh meat, non-food.
+          </p>
+          <p>
+           <a href="http://www.dcsinc.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.dcsinc.co.uk
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Dhamecha Group
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Wembley Stadium Industrial Estate,
+            <br/>
+            First Way,
+            <br/>
+            Wembley
+            <br/>
+            HA90TU
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           (020) 89038 181
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           (020) 8902 4420
+           <br/>
+           <strong>
+            E:
+            <a href="mailto:info@dhamecha.com">
+             info@dhamecha.com
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           9
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Soft drinks, grocery, household &amp; detergents, toiletries, confectionery, biscuits, non-food &amp; stationery, nappies &amp; baby products, crisps &amp; snacks and tobacco products
+          </p>
+          <p>
+           <strong>
+            <a href="http://www.dhamecha.com" rel="noopener" target="_blank">
+             www.dhamecha.com
+            </a>
+           </strong>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            East End Foods PLC
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            East End House,
+            <br/>
+            Kenrick Way,
+            <br/>
+            West Bromwich
+            <br/>
+            West Midlands
+            <br/>
+            B71 4EA
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0121 553 1999
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           0121 525 6565
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           3
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES
+           </strong>
+           : 349
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £200m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient grocery, chilled and frozen foods, licensed products, tobacco, non-food, East End-branded spices, rice, lentils, pulses, oils and condiments, Shimla Beer, Himalayan Monkey Beer
+          </p>
+          <p>
+           <strong>
+            <a href="http://www.eastendfoods.co.uk" rel="noopener" target="_blank">
+             www.eastendfoods.co.uk
+            </a>
+            <br/>
+            <a href="http://www.eastendcashandcarry.com" rel="noopener" target="_blank">
+             www.eastendcashandcarry.com
+            </a>
+           </strong>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Fairway Foodservice
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying Group –
+            <a href="https://www.fairwayfoodservice.com/membership/">
+             20 members
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            11 Cartwright Court
+            <br/>
+            Bradley Business Park
+            <br/>
+            Huddersfield,
+            <br/>
+            HD2 1GN
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01422 319100
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01422 319130
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           30
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           650+
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £801m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           frozen, chilled, ambient, dry and non-food
+          </p>
+          <p>
+           <strong>
+            <a href="http://www.fairwayfoodservice.com" rel="noopener" target="_blank">
+             www.fairwayfoodservice.com
+            </a>
+           </strong>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            HT &amp; Co Drinks
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            31-37 Park Royal Road Park Royal,
+            <br/>
+            London
+            <br/>
+            NW10 7LQ
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           020 8963 3130
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           4 (Park Royal, Wembley, Brighton, Blackpool)
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           205
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           alcohol, soft drinks and associated lines.
+          </p>
+          <p>
+           <a href="http://www.htdrinks.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.htdrinks.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Hyperama Wholesale
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Bull Close Road
+            <br/>
+            Lenton Ind Estate
+            <br/>
+            Nottingham
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            NG7 2UT
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0115 1301
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           0115 935 0342
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           4
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £141m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, chilled, frozen, grocery, alcohol, confectionery, tobacco, non-food, toiletries and household.
+          </p>
+          <p>
+           <a href="http://www.hyperama.com" rel="noopener" target="_blank">
+            <strong>
+             www.hyperama.com
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            JJ Food Service
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            7 Solar Way
+            <br/>
+           </strong>
+           <strong>
+           </strong>
+           <strong>
+            Innova Park
+            <br/>
+           </strong>
+           <strong>
+           </strong>
+           <strong>
+            Enfield
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            Middlesex
+            <br/>
+           </strong>
+           <strong>
+           </strong>
+           <strong>
+            EN3 7XY
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           08433 09 09 91
+          </p>
+          <p>
+           <strong>
+            KEY CONTACTS: Mustafa Kiamil
+           </strong>
+           CEO;
+           <strong>
+            Sezer Ozkul
+           </strong>
+           Chief Products Oficer
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           11
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           800
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £201m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Frozen, chilled, ambient, fresh, beverages, disposables, packaging, cleaning products, restaurant websites
+          </p>
+          <p>
+           <a href="http://www.jjfoodservice.com" rel="noopener" target="_blank">
+            <strong>
+             www.jjfoodservice.com
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            JW Filshill
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Ainslie Avenue, Hillington Industrial Estate,
+           </strong>
+           <br/>
+           <strong>
+            Glasgow G52 4HE
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0141 883 7071
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           1
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           250+
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £145m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Alcohol, confectionery, crisps and snacks, tobacco
+          </p>
+          <p>
+           <a href="http://www.filshill.co.uk">
+            www.filshill.co.uk
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Kitwave Wholesale Group
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Unit S3,
+            <br/>
+            Narvik Way
+            <br/>
+            Tyne Tunnel Estate
+            <br/>
+            North Shields
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            Tyne &amp; Wear
+            <br/>
+            NE29 7XJ
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0191 259 2277
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           26
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           940
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £341m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, confectionery, soft drinks, tobacco, non-food, frozen, alcohol, grocery and catering
+          </p>
+          <p>
+           <a href="http://www.kitwave.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.kitwave.co.uk
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <p>
+           Mevalco Ltd
+          </p>
+          <p>
+           Unit 4, Point 4, Second Way,
+           <br/>
+           Avonmouth, Bristol Bs11 8DF
+          </p>
+          <p>
+           Tel: 0117 982 6540
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           1
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           15
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £4m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Spanish fine foods
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Parfetts
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Didsbury Road
+            <br/>
+            Stockport
+            <br/>
+            Cheshire
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            SK4 2JP
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0161 429 0429
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           0161 480 1720
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           7
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           613
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £346m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Grocery, non-food, licensed, tobacco
+          </p>
+          <p>
+           <a href="http://www.parfetts.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.parfetts.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Ramsden International
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            (Trading name: S.D.Ramsden &amp; Co Ltd)
+            <br/>
+           </strong>
+           <strong>
+            Adam Smith Street
+            <br/>
+           </strong>
+           <strong>
+            Grimsby
+            <br/>
+           </strong>
+           <strong>
+            DN31 1SJ
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01472 315610
+          </p>
+          <p>
+           <strong>
+            Email:
+            <a href="mailto:sales@ramsden-international.com">
+             sales@ramsden-international.com
+            </a>
+            /
+            <a href="mailto:reception@ramsden-international.com">
+             reception@ramsden-international.com
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           2 (Grimsby, Scunthorpe, Dubai)
+          </p>
+          <p>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           89
+          </p>
+          <p>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £52m
+          </p>
+          <p>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           British consumer foods, including household goods
+          </p>
+          <p>
+           <a href="https://www.ramsden-international.com">
+            www.ramsden-international.com
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Sterling Supergroup
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying Group –
+            <a href="http://www.sterlingsgroup.co.uk/members/">
+             40 members
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Sterling House
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            208 Wantz Road
+            <br/>
+           </strong>
+           <strong>
+           </strong>
+           <strong>
+            Maldon
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            Essex
+            <br/>
+            CM9 5DG
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01621 856 300
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01422 319 103
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           40
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £380m
+           <br/>
+           PRODUCYS HANDLED: Ambient, frozen, fresh, chilled and non-food
+          </p>
+          <p>
+           <a href="http://www.sterlingsgroup.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.sterlingsgroup.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Sugro UK
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying group –
+            <a href="http://www.sugro.co.uk/Wholesalers.html">
+             84 members
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Whitewell House
+            <br/>
+            69 Crewe Road
+            <br/>
+            Nantwich
+            <br/>
+            Cheshire
+            <br/>
+           </strong>
+           <strong>
+            CW5 6HX
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01270 628 728
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           01270 623069
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS
+           </strong>
+           : 84
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           300+
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £1.1bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Impulse
+          </p>
+          <p>
+           <a href="http://www.sugro.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.sugro.co.uk
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Suma Wholefoods
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Lacy Way
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            Lowfields Business Park
+            <br/>
+            Elland
+            <br/>
+            HX5 9DB
+           </strong>
+          </p>
+          <p>
+           <strong>
+           </strong>
+           <strong>
+            Tel:
+           </strong>
+           01422 313840
+           <br/>
+           <strong>
+            Email:
+            <a href="mailto:buyer@suma.coop">
+             buyer@suma.coop
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           2
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           300
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £55m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           organic, fairtrade, healthy living, ethical, wholefoods, natural bodycare, natural household.
+          </p>
+          <p>
+           <a href="http://www.suma.coop" rel="noopener" target="_blank">
+            <strong>
+             www.suma.coop
+            </strong>
+           </a>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Time Wholesale Services
+           </strong>
+          </h3>
+          <p>
+           <b>
+            Unit 1&amp;1a Fairview Industrial Park
+            <br/>
+            Marsh Way, Rainham, Essex RM13 8UH
+           </b>
+          </p>
+          <p>
+           <strong>
+           </strong>
+           <strong>
+            Tel:
+           </strong>
+           01422 313840
+           <br/>
+           <strong>
+            Email:
+            <a href="mailto:buyer@suma.coop">
+             buyer@suma.coop
+            </a>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           1
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           73
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £67.5m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Grocery, Soft Drinks, beers, wines, spirits, tobacco, non-foods, baby, fresh and chilled foods, pet care, sundries
+          </p>
+          <p>
+           <a href="http://www.timews.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.timews.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            Unitas Wholesale
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Buying Group – 177 members
+           </strong>
+          </p>
+          <p>
+           <strong>
+            3 Carolina Court,
+            <br/>
+            Wisconsin Drive,
+            <br/>
+            Doncaster,
+            <br/>
+            South Yorkshire,
+            <br/>
+            DN4 5RA
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           01302 249909
+           <br/>
+           <strong>
+            Email:
+           </strong>
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           250
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           Head Office 50
+           <br/>
+           <strong>
+            COMPANY TURNOVER
+           </strong>
+           £8.5bn
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Ambient, impulse, grocery, own label, licensed (on- and o -trade), tobacco, non-edible (incl. household and health &amp; beauty) and foodservice
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            United Wholesale Grocers Ltd
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            Springburn
+           </strong>
+           <strong>
+            <br/>
+           </strong>
+           <strong>
+            246 Flemington Street
+            <br/>
+            Glasgow
+            <br/>
+            G21 4BY
+           </strong>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0141 557 2255
+           <br/>
+           <strong>
+            Email:
+            <a href="mailto:info@uwgl.co.uk">
+             info@uwgl.co.uk
+            </a>
+           </strong>
+          </p>
+          <p>
+           KEY CONTACTS:
+           <strong>
+            Waqas Yaqub
+           </strong>
+           General Manager, Springburn Head O ice
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS:
+           </strong>
+           3
+           <br/>
+           <strong>
+            NUMBER OF EMPLOYEES:
+           </strong>
+           180
+           <br/>
+           <strong>
+            COMPANY TURNOVER:
+           </strong>
+           £140m
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           8,000 skus, across confectionery, crisps and snacks, soft drinks, beers, wines, spirits, household, toiletries, grocery, pet food, paper products, frozen foods, chilled foods, stationery, medicines, tobacco, bread and cakes.
+          </p>
+          <p>
+           <strong>
+            <a href="http://www.uwgl.co.uk" rel="noopener" target="_blank">
+             www.uwgl.co.uk
+            </a>
+           </strong>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="row">
+        <div class="col-sm-4">
+         <div class="wp-content content">
+          <h3>
+           <strong>
+            United Wholesale (Scotland) Ltd
+           </strong>
+          </h3>
+          <p>
+           <strong>
+            110 Easter Queenslie Road
+            <br/>
+            Glasgow
+            <br/>
+            G33 4UL
+           </strong>
+          </p>
+          <p>
+           <strong>
+            Tel:
+           </strong>
+           0141 781 6600
+           <br/>
+           <strong>
+            Fax:
+           </strong>
+           0141 771 5618
+          </p>
+          <p>
+           <strong>
+            NUMBER OF DEPOTS
+           </strong>
+           : 3
+           <br/>
+           <strong>
+            PRODUCTS HANDLED:
+           </strong>
+           Grocery, soft drinks, chill, frozen, household, non-foods, paper products, beer, wines, cigarettes and tobacco.
+          </p>
+          <p>
+           <a href="http://www.uniteduk.co.uk" rel="noopener" target="_blank">
+            <strong>
+             www.uniteduk.co.uk
+            </strong>
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!--/col-md-10 col-md-offset-1-->
+     </div>
+     <!--/row-->
+    </div>
+    <!--/conteiner-->
+   </section>
+  </section>
+  <footer class="footer-widgets">
+   <div class="container">
+    <div class="row">
+     <div class="col-xs-12 col-sm-3">
+      <address>
+       9 Gildredge Road,
+       <br/>
+       Eastbourne,
+       <br/>
+       East Sussex,
+       <br/>
+       BN21 4RB
+      </address>
+      <ul class="contact-details">
+       <li>
+        <span>
+         T
+        </span>
+        <a href="tel:01323724952">
+         01323 724 952
+        </a>
+       </li>
+       <li>
+        <span>
+         F
+        </span>
+        01323 732 820
+       </li>
+       <li>
+        <span>
+         E
+        </span>
+        <a href="mailto:nikki@fwd-uk.com">
+         nikki@fwd-uk.com
+        </a>
+       </li>
+      </ul>
+      <ul class="social-links">
+       <li>
+        <a href="https://twitter.com/fwdwholesale" rel="noopener" target="_blank">
+         <img alt="Follow FWD on Twitter" src="https://www.fwd.co.uk/wp-content/themes/fwd/images/icons/social/twitter.svg"/>
+        </a>
+       </li>
+       <!-- <li><a href="#" target="_blank" rel="noopener"><img src="https://www.fwd.co.uk/wp-content/themes/fwd/images/icons/social/facebook.svg" alt="Follow FWD on Facebook"></a></li> -->
+       <!-- <li><a href="#" target="_blank" rel="noopener"><img src="https://www.fwd.co.uk/wp-content/themes/fwd/images/icons/social/linkedin.svg" alt="Follow FWD on LinkedIn"></a></li> -->
+      </ul>
+     </div>
+     <div class="col-xs-12 col-sm-9">
+      <div class="footer-nav-menu">
+       <ul>
+        <li>
+         <a href="https://www.fwd.co.uk">
+          Home
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7497">
+         <a href="https://www.fwd.co.uk/">
+          Homepage
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7498">
+         <a href="https://www.fwd.co.uk/about-fwd/">
+          About FWD
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-9821">
+         <a href="https://www.fwd.co.uk/wholesale-distribution/">
+          Wholesale Distribution
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7499">
+         <a href="https://www.fwd.co.uk/current-issues/">
+          Policy and Legislation
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7496">
+         <a href="https://www.fwd.co.uk/wholesale-news/">
+          Wholesale News
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10047">
+         <a href="https://www.fwd.co.uk/homepage/wiw/">
+          Women in Wholesale
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10045">
+         <a href="https://www.fwd.co.uk/events/">
+          Events
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10046">
+         <a href="https://www.fwd.co.uk/contact/">
+          Contact
+         </a>
+        </li>
+       </ul>
+      </div>
+      <form action="https://www.createsend.com/t/subscribeerror?description=" class="footer-newsletter-signup js-cm-form" data-id="A61C50BEC994754B1D79C5819EC1255CB0A41BE10D3980B17317160F118440A59815D811C34EDC76AFD50F3D40A430CE5CE896036853D765CD9B095517A2A9EB" id="subForm" method="post">
+       <div class="text">
+        Sign up for our Newsletter
+       </div>
+       <div class="form-group">
+        <label class="sr-only" for="fieldName">
+         Full Name
+        </label>
+        <input id="fieldName" name="cm-name" placeholder="Full Name" required="" type="text"/>
+        <label class="sr-only" for="fieldEmail">
+         Email address
+        </label>
+        <input class="js-cm-email-input" id="footer-newsletter-signup" name="cm-shktuy-shktuy" placeholder="Email address" required="" type="email"/>
+        <button class="js-cm-submit-button" type="submit">
+         Subscribe
+        </button>
+        <label for="footer-newsletter-signup">
+         By signing up I agree to receive Wholesale News email newsletters and other communications relating to the magazine and connected products and services. I understand that I can unsubscribe at any time by clicking the ‘Unsubscribe’ link in any email received. View
+         <a href="privacy-policy">
+          privacy policy
+         </a>
+         .
+        </label>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <footer class="legal-footer">
+   <div class="container">
+    <div class="row">
+     <div class="col-xs-12 col-sm-9 col-sm-push-3">
+     </div>
+     <div class="col-xs-12 col-sm-3 col-sm-pull-9">
+      <p style="color: white;">
+       © FWD 2021 | v1.0.7
+      </p>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script src="https://www.fwd.co.uk/wp-includes/js/jquery/jquery.js" type="text/javascript">
+  </script>
+  <script src="https://www.fwd.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="https://www.fwd.co.uk/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dS MM yy","firstDay":1,"isRTL":false});});
+  </script>
+  <script src="https://www.fwd.co.uk/wp-content/plugins/acf-form-builder/scripts/javascripts/min/form.js?ver=2.0.13" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"4947e8e54e","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/www.fwd.co.uk\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"links":{"page_1":"https:\/\/www.fwd.co.uk\/wholesale-distribution\/whos-who-in-wholesale\/","page_n":"https:\/\/www.fwd.co.uk\/wholesale-distribution\/whos-who-in-wholesale\/?_page=_CVNUMBER_"},"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+  </script>
+  <script src="https://www.fwd.co.uk/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=2.3.1" type="text/javascript">
+  </script>
+  <script src="https://www.fwd.co.uk/wp-content/themes/fwd/javascripts/min/app.js?ver=1.0.7" type="text/javascript">
+  </script>
+  <script src="https://www.fwd.co.uk/wp-includes/js/wp-embed.min.js?ver=4.9.18" type="text/javascript">
+  </script>
+  <script src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js" type="text/javascript">
+  </script>
+  <script src="https://silveragency.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-tr3774/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-UK&amp;collectorId=8df28544" type="text/javascript">
+  </script>
+  <script id="" type="text/javascript">
+   focus();var listener=window.addEventListener("blur",function(){"undefined"!=typeof document.activeElement.src&&-1<document.activeElement.src.indexOf("soundcloud")&&dataLayer.push({event:"Soundcloud File Interaction","soundcloud url":document.activeElement.src});window.removeEventListener("blur",listener)});
+  </script>
+  <script id="" type="text/javascript">
+   var formSubmissionDetection=window.setInterval(function(){jQuery(".acf-success-container")&&("Thank you for your message."==jQuery(".acf-success-container").text()?(clearInterval(formSubmissionDetection),dataLayer.push({event:"Contact Form Submitted"})):"Thank you for your enquiry, we will get in touch shortly."==jQuery(".acf-success-container").text()&&(clearInterval(formSubmissionDetection),dataLayer.push({event:"Magazine Subscription Form Submitted"})))},500);
+  </script>
+  <script id="" type="text/javascript">
+   var links=document.getElementsByTagName("a"),i=0;for(i;i<links.length;i++)links[i].href&&(links[i].href.includes("https://www.fwd.co.uk/")||links[i].href.includes("linked")||links[i].href.includes("facebook")||links[i].href.includes("twitter")||links[i].href.includes("@")||links[i].href.includes("tel:")||dataLayer.push({event:"3rd party image found",image:links[i].href}));
+  </script>
+  <a class="atlwdg-trigger atlwdg-SUBTLE" href="#" id="atlwdg-trigger">
+   Feedback
+  </a>
+  <div class="atlwdg-blanket" id="atlwdg-blanket" style="display: none;">
+  </div>
+  <div class="atlwdg-popup atlwdg-hidden" id="atlwdg-container">
+  </div>
+ </body>
+</html>
